@@ -3,7 +3,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 //Se crea una programa el cual pueda generar ID unicos
-public class HolaMundo {
+public class IDUnico {
     public static void main(String[] args) {
       
       //Establecer variable Scanner

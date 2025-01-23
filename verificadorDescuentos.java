@@ -26,13 +26,12 @@ public class verificadorDescuentos {
             System.out.printf("""
                               Felicidades ha recibido un descuento de 10%%
                               Monto de descuento: %.2f
-                              Monto total: %.
-                              
+                              Monto total: %.2f
                               """, calculo1Sub, calculo1Total);}
        else if (monto <= montoMinimo && miembro){
             System.out.printf(""" 
                               Felicidades ha recibido un descuento de 5%%
-                              Monto de descuento: %.2f
+                              Monto de descuento: %.2fs
                               Monto total: %.2f
                               """,calculo2Sub,calculo2Total);
         }
